@@ -6,7 +6,8 @@ namespace CaclulatorConsoleApp
     {
         static void Main(string[] args)
         {
-            
+            int s = 1 + 2;
+            Console.WriteLine(a);
         }        
     }    
 }
